@@ -1,0 +1,121 @@
+{
+    "fecha_dia": [653, 200, 38, 20, 2, "text", "center"],
+    "fecha_mes": [697, 200, 37, 20, 2, "text", "center"],
+    "fecha_ano": [740, 200, 37, 20, 4, "text", "center"],
+
+    "nombre_razon_social": [196, 248, 368, 20, 57, "text", "left"],
+    "numero_rif": [648, 248, 140, 20, 16, "text", "left"],
+    "domicilio_fiscal": [150, 275, 640, 20, 78, "text", "left"],
+    "telefono": [74, 328, 112, 20, 13, "text", "left"],
+    "orden_entrega": [228, 328, 135, 20, 15, "text", "left"],
+    "guia_despacho": [393, 329, 68, 20, 7, "text", "left"],
+    "condiciones_pago": [473, 329, 310, 20, 37, "text", "left"],
+
+    "item1-cantidad": [42, 386, 48, 20, 5, "text", "center"],
+    "item1-concepto": [100, 386, 481, 20, 58, "text", "left"],
+    "item1-pu": [592, 387, 80, 20, 9, "text", "center"],
+    "item1-total": [685, 387, 100, 20, 11, "text", "center"],
+
+    "item2-cantidad": [42, 412, 48, 20, 5, "text", "center"],
+    "item2-concepto": [100, 412, 481, 20, 58, "text", "left"],
+    "item2-pu": [592, 413, 80, 20, 9, "text", "center"],
+    "item2-total": [685, 413, 100, 20, 11, "text", "center"],
+
+    "item3-cantidad": [42, 437, 48, 20, 5, "text", "center"],
+    "item3-concepto": [100, 437, 481, 20, 58, "text", "left"],
+    "item3-pu": [592, 438, 80, 20, 9, "text", "center"],
+    "item3-total": [685, 438, 100, 20, 11, "text", "center"],
+
+    "item4-cantidad": [42, 462, 48, 20, 5, "text", "center"],
+    "item4-concepto": [100, 462, 481, 20, 58, "text", "left"],
+    "item4-pu": [592, 463, 80, 20, 9, "text", "center"],
+    "item4-total": [685, 464, 100, 20, 11, "text", "center"],
+
+    "item5-cantidad": [42, 488, 48, 20, 5, "text", "center"],
+    "item5-concepto": [100, 488, 481, 20, 58, "text", "left"],
+    "item5-pu": [592, 489, 80, 20, 9, "text", "center"],
+    "item5-total": [685, 489, 100, 20, 11, "text", "center"],
+
+    "item6-cantidad": [42, 513, 48, 20, 5, "text", "center"],
+    "item6-concepto": [100, 513, 481, 20, 58, "text", "left"],
+    "item6-pu": [592, 514, 80, 20, 9, "text", "center"],
+    "item6-total": [685, 515, 100, 20, 11, "text", "center"],
+
+    "item7-cantidad": [42, 539, 48, 20, 5, "text", "center"],
+    "item7-concepto": [100, 539, 481, 20, 58, "text", "left"],
+    "item7-pu": [592, 540, 80, 20, 9, "text", "center"],
+    "item7-total": [685, 540, 100, 20, 11, "text", "center"],
+
+    "item8-cantidad": [42, 565, 48, 20, 5, "text", "center"],
+    "item8-concepto": [100, 565, 481, 20, 58, "text", "left"],
+    "item8-pu": [592, 566, 80, 20, 9, "text", "center"],
+    "item8-total": [685, 567, 100, 20, 11, "text", "center"],
+
+    "item9-cantidad": [42, 591, 48, 20, 5, "text", "center"],
+    "item9-concepto": [100, 591, 481, 20, 58, "text", "left"],
+    "item9-pu": [592, 592, 80, 20, 9, "text", "center"],
+    "item9-total": [685, 593, 100, 20, 11, "text", "center"],
+
+    "item10-cantidad": [42, 616, 48, 20, 5, "text", "center"],
+    "item10-concepto": [100, 616, 481, 20, 58, "text", "left"],
+    "item10-pu": [592, 617, 80, 20, 9, "text", "center"],
+    "item10-total": [685, 618, 100, 20, 11, "text", "center"],
+
+    "item11-cantidad": [42, 642, 48, 20, 5, "text", "center"],
+    "item11-concepto": [100, 642, 481, 20, 58, "text", "left"],
+    "item11-pu": [592, 643, 80, 20, 9, "text", "center"],
+    "item11-total": [685, 644, 100, 20, 11, "text", "center"],
+
+    "item12-cantidad": [42, 667, 48, 20, 5, "text", "center"],
+    "item12-concepto": [100, 668, 481, 20, 58, "text", "left"],
+    "item12-pu": [592, 669, 80, 20, 9, "text", "center"],
+    "item12-total": [685, 670, 100, 20, 11, "text", "center"],
+
+    "item13-cantidad": [42, 693, 48, 20, 5, "text", "center"],
+    "item13-concepto": [100, 693, 481, 20, 58, "text", "left"],
+    "item13-pu": [592, 694, 80, 20, 9, "text", "center"],
+    "item13-total": [685, 695, 100, 20, 11, "text", "center"],
+
+    "item14-cantidad": [42, 718, 48, 20, 5, "text", "center"],
+    "item14-concepto": [100, 718, 481, 20, 58, "text", "left"],
+    "item14-pu": [592, 719, 80, 20, 9, "text", "center"],
+    "item14-total": [685, 720, 100, 20, 11, "text", "center"],
+
+    "item15-cantidad": [42, 744, 48, 20, 5, "text", "center"],
+    "item15-concepto": [100, 744, 481, 20, 58, "text", "left"],
+    "item15-pu": [592, 745, 80, 20, 9, "text", "center"],
+    "item15-total": [685, 746, 100, 20, 11, "text", "center"],
+
+
+    "item16-cantidad": [42, 769, 48, 20, 5, "text", "center"],
+    "item16-concepto": [100, 770, 481, 20, 58, "text", "left"],
+    "item16-pu": [592, 771, 80, 20, 9, "text", "center"],
+    "item16-total": [685, 771, 100, 20, 11, "text", "center"],
+
+    "item17-cantidad": [42, 795, 48, 20, 5, "text", "center"],
+    "item17-concepto": [100, 796, 481, 20, 58, "text", "left"],
+    "item17-pu": [592, 796, 80, 20, 9, "text", "center"],
+    "item17-total": [685, 797, 100, 20, 11, "text", "center"],
+
+    "item18-cantidad": [42, 821, 48, 20, 5, "text", "center"],
+    "item18-concepto": [100, 822, 481, 20, 58, "text", "left"],
+    "item18-pu": [592, 822, 80, 20, 9, "text", "center"],
+    "item18-total": [685, 823, 100, 20, 11, "text", "center"],
+
+    "forma_pago_efectivo": [43, 873, 13, 13, 1, "radio_button", "left"],
+    "forma_pago_debito": [105, 873, 13, 13, 1, "radio_button", "left"],
+    "forma_pago_credito": [43, 889, 13, 13, 1, "radio_button", "left"],
+    "forma_pago_transferencia": [105, 889, 13, 13, 1, "radio_button", "left"],
+    "forma_pago_pago_movil": [165, 889, 13, 13, 1, "radio_button", "left"],
+
+    "iva": [479, 861, 30, 20, 3, "text", "center"],
+    "igtf": [492, 934, 30, 20, 3, "text", "center"],
+
+    "sub_total":[685, 847, 100, 18, 11, "text", "center"],
+    "iva_total":[685, 865, 100, 18, 11, "text", "center"],
+    "sub_total_mas_iva": [685, 883, 100, 18, 11, "text", "center"],
+    "pago_bs": [685, 901, 100, 18, 11, "text", "center"],
+    "pago_divisa_tasa": [685, 918, 100, 18, 11, "text", "center"],
+    "igtf_sobre": [685, 935, 100, 18, 11, "text", "center"],
+    "total_pagar": [685, 957, 100, 18, 11, "text", "center"]
+}

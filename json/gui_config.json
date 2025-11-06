@@ -1,0 +1,10 @@
+{
+    "invoice_width": 834,
+    "invoice_height": 1080,
+    "window_width":1220,
+    "window_height":850,
+    "invoice_background_path":"assets/images/plantilla_factura.png",
+    "app_title":"Facturación AWAA 4D S.A",
+    "margin_top":50,
+    "margin_bottom":50
+}

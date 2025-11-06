@@ -1,6 +1,6 @@
-# 🧾 Facturación Awaa
+# 🧾 Facturación Desktop App
 
-**Facturación Awaa** es una aplicación de escritorio desarrollada en Python con PyQt6 que permite generar facturas personalizadas en formato PDF, alineando dinámicamente los datos ingresados sobre una plantilla visual. Está diseñada para ser robusta, multiplataforma y fácil de usar, incluso sin conexión a internet. Fue desarrollada para solucionar un problema especifico de la empresa ELEVACION AWAA 4D S.A
+Es una aplicación de escritorio desarrollada en Python con PyQt6 que permite generar facturas personalizadas en formato PDF, alineando dinámicamente los datos ingresados sobre una plantilla visual. Está diseñada para ser robusta, multiplataforma y fácil de usar, incluso sin conexión a internet. Fue desarrollada para solucionar un problema especifico de la empresa ELEVACION AWAA 4D S.A
 
 ---
 

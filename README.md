@@ -31,7 +31,6 @@ La interfaz está dividida en dos vistas:
 - PyQt6
 - ReportLab (para generación de PDFs)
 - Pillow, lxml, pikepdf
-- PyInstaller + Inno Setup (para distribución en Windows)
 
 ## ⚙️ Instalación y ejecución
 

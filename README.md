@@ -38,7 +38,6 @@ La interfaz está dividida en dos vistas:
 ### 🔧 Requisitos
 
 - Python 3.12+
-- Windows 10/11 (para ejecutable)
 - `pip install -r requirements.txt`
 
 ### ▶️ Ejecutar en desarrollo
